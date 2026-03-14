@@ -114,3 +114,16 @@ Used to display text as it is (without ingoring spaces & next line).
 is a sample
 text.
 </ pre>
+
+## Page Layout Techniques
+Using Semantic tags for layout.
+Using the right Tags.
+
+< header><br>
+< main><br>
+< footer>
+
+## Inside Main Tag
+1. Section Tag = For a section on your page
+
+< section>
