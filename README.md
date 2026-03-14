@@ -69,6 +69,10 @@ Used to add links to your page
 
 < a href="https://google.com"> Google </ a>
 
+< a> href="https:google.com" target="_main"> Google </ a> (for new tab)
+
+< a> href="https:google.com"><img src="link"> </ a> (clickable picture)
+
 ## Image Tag
 Used to add images to your page
 
@@ -135,3 +139,13 @@ Using the right Tags.
 3. Aside Tag = for content aside main content(ads)
 
 < aside>
+
+## Div Tag
+Div is a container used for other HTML elements.
+
+Block Element (takes full width)
+
+## Span Tag
+Span is also a container used for other HTML elements.
+
+Inline Element (takes width as per size)
