@@ -52,9 +52,19 @@ Attributes are used to add more information to the tag.
 ## Heading Tag
 Used to display headings in HTML.
 
-h1 (most important)
-h2
-h3
-h4
-h5
+h1 (most important)<br>
+h2<br>
+h3<br>
+h4<br>
+h5<br>
 h6 (Least important)
+
+## Paragraph Tag
+Used to add paragraphs in HTML
+
+< p>This is a sample paragraph</ p>
+
+## Anchor Tag
+Used to add links to your page
+
+< a href="https://google.com"> Google </ a>
