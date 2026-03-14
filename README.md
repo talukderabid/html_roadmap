@@ -34,3 +34,27 @@ Most of html elements have opening & closing tags with content in between.
 Some tags have no content in between, eg - < br>.
 
 We can use inspect element/view page source to edit html.
+
+## Comments in HTML
+This is part of code that should not be parsed.
+
+<! --This is an HTML Comment-->
+
+## HTML is NOT case sensitive
+< html> = < HTML>
+
+## Basic HTML Tags
+### HTML Attributes
+Attributes are used to add more information to the tag.
+
+< html lang="en">
+
+## Heading Tag
+Used to display headings in HTML.
+
+h1 (most important)
+h2
+h3
+h4
+h5
+h6 (Least important)
