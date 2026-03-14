@@ -68,3 +68,8 @@ Used to add paragraphs in HTML
 Used to add links to your page
 
 < a href="https://google.com"> Google </ a>
+
+## Image Tag
+Used to add images to your page
+
+< img src="/image.png" alt="Random Image">
