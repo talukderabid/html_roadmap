@@ -19,6 +19,9 @@ It is the default name for a website's homepage.
 A container for some content or other HTML tags.
 
 ## Basic HTML Page
-<!DOCTYPE html> = tells browser you are using HTML5
-<html></html> = root of an html document
-<head></head> = container for metadata.
+< !DOCTYPE html > = tells browser you are using HTML5<br>
+< html>< /html> = root of an html document<br>
+< head>< /head> = container for metadata.<br>
+< title></ title> = page title
+< body></ body> = contains all data rendered by the browser
+< p></ p> = paragraph tag
