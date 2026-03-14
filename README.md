@@ -73,3 +73,44 @@ Used to add links to your page
 Used to add images to your page
 
 < img src="/image.png" alt="Random Image">
+
+## Br Tag
+Used to add next line (line breaks) to your page
+
+< br>
+
+## Bold, Italic & Underline Tags
+Used to highlight text in your page
+
+< b> Bold </ b>
+
+< i> Italic </ i>
+
+< u> Underline </ u>
+
+## Big & Small Tags
+Used to display big & small text on your page.
+
+< big> Big </ big>
+
+< small> Small </ small>
+
+## Hr Tag
+Used to display a horizontal ruler, used to separate content.
+
+< hr>
+
+## Subscript & Superscript Tag
+Used to display a horixontal ruler, used to seprate content.
+
+< sub> subscript </ sub>
+
+< sup> superscript </ sup>
+
+## Pre Tag
+Used to display text as it is (without ingoring spaces & next line).
+
+< pre> This
+is a sample
+text.
+</ pre>
