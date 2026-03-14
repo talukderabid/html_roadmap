@@ -127,3 +127,11 @@ Using the right Tags.
 1. Section Tag = For a section on your page
 
 < section>
+
+2. Article Tag = for an article on your page
+
+< article>
+
+3. Aside Tag = for content aside main content(ads)
+
+< aside>
