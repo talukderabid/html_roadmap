@@ -15,3 +15,6 @@ index.html
 
 It is the default name for a website's homepage.
 
+## HTML Tag
+A container for some content or other HTML tags.
+![html tags](image/img1.png)
