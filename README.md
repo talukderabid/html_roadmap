@@ -25,3 +25,12 @@ A container for some content or other HTML tags.
 < title></ title> = page title
 < body></ body> = contains all data rendered by the browser
 < p></ p> = paragraph tag
+
+## Quick Points
+HTML tag is parent of head & body tag.
+
+Most of html elements have opening & closing tags with content in between.
+
+Some tags have no content in between, eg - < br>.
+
+We can use inspect element/view page source to edit html.
