@@ -239,7 +239,7 @@ website inside website
 < iframe src="link">
 
 ## Video Tag
-< video src="link"> My video </ video>
+<video src="link"> My video </ video>
 
 Attributes
 - controls
