@@ -202,3 +202,31 @@ Action attribute is used to define what action needs to be performed when a form
     <input type="radio" value ="class X" name="class" id="id1">
 
 </ label>
+
+## Class & Id
+< div id="id1" class="group1">
+
+</ div>
+
+< div id="id2"> class="group1">
+</ div>
+
+## Checkbox
+< label for="id1">
+
+    <input type ="checkbox" value="class X" name="class" id="id1">
+
+</ lable>
+
+< label for="id2">
+
+    <input type="checkbox" value="class X" name="class" id="id2">
+
+</ label>
+
+## Select
+< select name="city" id="city">
+
+    <option. value="Delhi"> Delhi </option>
+    <option. value="Mumbai"> Delhi </option>
+    <option. value="Banglore"> Delhi </option>
