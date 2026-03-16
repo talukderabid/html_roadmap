@@ -160,3 +160,45 @@ List are used to represent real life list data.
 2. ordered.
 
 < ol> </ ol>
+
+## Tables in HTML
+Tables are used to represent real life table data.
+
+< tr> used to display table row
+
+< td> used to display table data
+
+< th> used to display table header
+
+## Caption in Table
+< caption> Student Data </ caption>
+
+## thead & tbody in Tables
+< thead> to wrap table head
+
+< tbody> to wrap table body
+
+## Form in HTML
+Forms are used to collect data from the user. Eg - sign up/login/helop requests/contact me.
+
+< form>
+
+form content
+
+</ form>
+
+## Action in Form
+Action attribute is used to define what action needs to be performed when a form is submitted.
+
+< form action="/action.php">
+
+## Form Element: Input
+
+< input type="text" placeholder="Enter Name">
+
+## Label
+< label for="id1">
+
+    <input type="radio" value ="class X" name="class" id="id1">
+
+</ label>
