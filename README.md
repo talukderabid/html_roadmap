@@ -149,3 +149,14 @@ Block Element (takes full width)
 Span is also a container used for other HTML elements.
 
 Inline Element (takes width as per size)
+
+## List in HTML
+List are used to represent real life list data.
+
+1. unordered.
+
+< ul> </ ul>
+
+2. ordered.
+
+< ol> </ ol>
